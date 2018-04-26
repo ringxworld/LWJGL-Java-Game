@@ -14,6 +14,7 @@ Have maven 3.5+ and have it on your environmental variables and path
 If maven is having trouble loading the referenced libraries open the pom xml and it will find them
 Finally have either eclipse or intellij to set up the project
 
+
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
